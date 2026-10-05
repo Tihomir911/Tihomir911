@@ -4,8 +4,6 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
 <h3 align="center">Languages</h3>
 
 <p align="center">
@@ -31,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIyOW1ueTgycjZ0MnBka28zOGUxZm1raTIycThpZ3pwcDA5OGVwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" width="10%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIyOW1ueTgycjZ0MnBka28zOGUxZm1raTIycThpZ3pwcDA5OGVwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udK21RQeWtaGQ/giphy.gif" width="50%">
 </p
