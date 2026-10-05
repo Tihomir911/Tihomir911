@@ -4,28 +4,40 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Web</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
 </p>
 
-<h3 align="center">Development</h3>
+<h3 align="center">Development & Build</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcc,cmake,vim,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cmake,gcc,clang,vim,sqlite,bash" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,nginx,postgresql" />
 </p>
 
 <h3 align="center">DevOps & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github" />
 </p>
 
 <h3 align="center">Linux</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,gentoo,ubuntu,debian,arch" />
+</p>
+
+<h3 align="center">Game Development & 3D</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
 </p>
 
 <p align="center">
