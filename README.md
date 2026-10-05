@@ -12,6 +12,18 @@
   🦆 RootDuck — Docker & FastAPI infrastructure project<br>
 </p>
 
+<h1 align="center">🚀 Featured Projects</h1>
+
+<p align="center">
+  <a href="https://github.com/Tihomir911/NeuroDigit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tihomir911&repo=NeuroDigit&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/Tihomir911/RootDuck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tihomir911&repo=RootDuck&theme=tokyonight" />
+  </a>
+</p>
+
 <p align="center">
   Software Developer • Linux Enthusiast • Open Source Learner
 </p>
@@ -54,6 +66,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tihomir911&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
