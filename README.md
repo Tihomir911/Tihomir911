@@ -2,7 +2,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODQ4NGNzM3Q0YnluaTJnNWRlZTcxYzJvNzcwMXNudnF3azcyaTRnaSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/vPzbDN4rBxuvtpSpzF/giphy.gif" width="10%">
 </p
 
-<h1 align="center">
+<h2 align="center">🚀 Currently Working On</h2>
+
+<p align="center">
+  🧠 NeuroDigit — C++ handwritten digit recognition<br>
+  🦆 RootDuck — Docker & FastAPI infrastructure project<br>
+</p>
+
+<p align="center">
+  Software Developer • Linux Enthusiast • Open Source Learner
+</p>
+
+<h1 align="center" >
   🛠️ Technologies & Tools
 </h1>
 
